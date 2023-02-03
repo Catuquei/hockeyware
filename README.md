@@ -1,4 +1,8 @@
 # HockeyWare
 
-Beta 1.4.2
-Loader 1.6
+## reason
+has a massive ego and cannot make one single orginal module :scream:
+
+
+## history
+ff+2 base with 3arth4ack gui and most modules from cosmos
